@@ -1,0 +1,24 @@
+{
+	"schemaVersion": 1,
+	"id": "polyestereditjumpscare",
+	"version": "${version}",
+	"name": "Polyester Edit Jumpscare",
+	"description": "1 in N chance per tick for a jumpscare to appear.",
+	"authors": [
+		"rawe21"
+	],
+	"license": "MIT",
+	"icon": "assets/polyestereditjumpscare/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.bisforboosted.polyestereditjumpscare.client.FabricHudHook"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
