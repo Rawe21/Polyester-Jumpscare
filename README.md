@@ -15,3 +15,9 @@ I'd suggest running this once at world start just to confirm the mod is working.
 - Fabric, Minecraft 1.21.1 only
 - Credits to @foryouamv for the original edit
 - This is my first time using ffmpeg, so you may run into bugs, feel free to open an issue, i will  *maybe* check them.
+
+
+
+# Available on:
+- CurseForge: https://www.curseforge.com/minecraft/mc-mods/chance-of-polyester-spiderman-edit-jumpscare
+- Modrinth: **SOON**
